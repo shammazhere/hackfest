@@ -110,8 +110,14 @@ def schemes_info():
 
 
 if __name__ == '__main__':
+    # Get the port from the environment variable (Render sets this automatically)
+    # Default to 5000 if running locally
+    port = int(os.environ.get("PORT", 5000))
+    
     print(f"\n{'='*50}")
     print(f"📊 Loaded {len(SCHEMES)} schemes")
-    print(f"🚀 Starting server at http://localhost:5000")
+    print(f"🚀 Starting FinSaathi server at port {port}")
     print(f"{'='*50}\n")
-    app.run(debug=True, port=5000)
+    
+    # Use 0.0.0.0 so the service is accessible externally
+    app.run(host='0.0.0.0', port=port)
