@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime, timedelta
 
-CACHE_FILE = "schemes_cache.json"
+CACHE_FILE = "/tmp/schemes_cache.json" if os.environ.get("VERCEL") else "schemes_cache.json"
 CACHE_DURATION_HOURS = 24
 
 # MyScheme.gov.in internal API endpoint
