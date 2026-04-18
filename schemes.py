@@ -1,7 +1,7 @@
 from scheme_scraper import get_all_schemes, search_schemes
 
 # Load schemes on startup (cached)
-SCHEMES = get_all_schemes()
+SCHEMES = []
 
 
 def get_scheme_by_id(scheme_id):
