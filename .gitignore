@@ -3,3 +3,6 @@ scheme-advisor/.env
 *.db
 **/build/
 *.apk
+
+.env
+scheme-advisor/.env
