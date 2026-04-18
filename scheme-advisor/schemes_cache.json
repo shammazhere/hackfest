@@ -1,0 +1,2707 @@
+{
+  "timestamp": "2026-04-18T12:51:51.607128",
+  "schemes": [
+    {
+      "id": 1,
+      "name": "PMFDR",
+      "full_name": "Prime Minister’s Fellowship for Doctoral Research",
+      "category": "central",
+      "tagline": "PMFDR",
+      "keywords": [
+        "fellowship",
+        "doctoral",
+        "research",
+        "serb",
+        "phd",
+        "fellow",
+        "prime",
+        "minister’s",
+        "fellowship",
+        "for",
+        "doctoral"
+      ],
+      "benefits": "Prime Minister’s Fellowship for Doctoral Research scheme is a prestigious initiative of Science and Engineering Research Board (SERB), Department of Science & Technology, Government of India towards t",
+      "benefits_list": [
+        "Prime Minister’s Fellowship for Doctoral Research scheme is a prestigious initia",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Prime Minister’s Fellowship for Doctoral Research scheme is a prestigious initiative of Science and Engineering Research Board (SERB), Department of Science & Technology, Government of India towards the advancement of university research engagements in line with industry requirement.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmfdr",
+      "color": "#2E8B57",
+      "gradient": [
+        "#2E8B57",
+        "#3CB371"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Science And Technology",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "PM-USP-CSSS",
+      "full_name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP) Central Sector Scheme of Scholarship for College and University students",
+      "category": "central",
+      "tagline": "PM-USP-CSSS",
+      "keywords": [
+        "scholarship",
+        "student",
+        "financial assistance",
+        "college",
+        "university",
+        "pradhan",
+        "mantri",
+        "uchchatar",
+        "shiksha",
+        "protsahan"
+      ],
+      "benefits": "A scholarship scheme by the Dept. of Higher Education to provide financial assistance to meritorious students from poor families to meet a part of their day-to-day expenses while pursuing higher studi",
+      "benefits_list": [
+        "A scholarship scheme by the Dept. of Higher Education to provide financial assis",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "A scholarship scheme by the Dept. of Higher Education to provide financial assistance to meritorious students from poor families to meet a part of their day-to-day expenses while pursuing higher studies. The scholarships are awarded on the basis of results of Higher Secondary / Class 12th Board Exam",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/csss-cus",
+      "color": "#4A90E2",
+      "gradient": [
+        "#4A90E2",
+        "#5DADE2"
+      ],
+      "icon": "📚",
+      "ministry": "Ministry of Education",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "PM-KUSUM",
+      "full_name": "Pradhan Mantri Kisan Urja Suraksha Evam Utthan Mahabhiyan Scheme For Farmers.",
+      "category": "central",
+      "tagline": "PM-KUSUM",
+      "keywords": [
+        "solar",
+        "farmer",
+        "infrastructure",
+        "utility",
+        "pradhan",
+        "mantri",
+        "kisan",
+        "urja",
+        "suraksha"
+      ],
+      "benefits": "Pradhan Mantri Kisan Urja Surakshaevam Utthaan Mahabhiyan Yojana (PM-KUSUM Scheme) was launched in March 2019 by the Ministry of New and Renewable Energy (MNRE), to subsidize farmers to install solar ",
+      "benefits_list": [
+        "Pradhan Mantri Kisan Urja Surakshaevam Utthaan Mahabhiyan Yojana (PM-KUSUM Schem",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Pradhan Mantri Kisan Urja Surakshaevam Utthaan Mahabhiyan Yojana (PM-KUSUM Scheme) was launched in March 2019 by the Ministry of New and Renewable Energy (MNRE), to subsidize farmers to install solar irrigation pumps for cultivation. Each farmer will receive a 60% subsidy.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pm-kusum",
+      "color": "#E91E63",
+      "gradient": [
+        "#E91E63",
+        "#F06292"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of New and Renewable Energy",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "PMKVY -STT",
+      "full_name": "Pradhan Mantri Kaushal Vikas Yojana - Short Term Training",
+      "category": "central",
+      "tagline": "PMKVY -STT",
+      "keywords": [
+        "placement",
+        "counselling",
+        "training",
+        "dropout",
+        "unemployed",
+        "skill",
+        "vikas",
+        "kaushal",
+        "pradhan",
+        "mantri",
+        "kaushal",
+        "vikas",
+        "yojana"
+      ],
+      "benefits": "A skill development scheme by Ministry of Skill Development and Entrepreneurship for school/college dropouts/unemployed aged 15-45 at PMKVY Training Centres (TCs). ",
+      "benefits_list": [
+        "A skill development scheme by Ministry of Skill Development and Entrepreneurship",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "A skill development scheme by Ministry of Skill Development and Entrepreneurship for school/college dropouts/unemployed aged 15-45 at PMKVY Training Centres (TCs). ",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmkvy-stt",
+      "color": "#9C27B0",
+      "gradient": [
+        "#9C27B0",
+        "#BA68C8"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Skill Development And Entrepreneurship",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "PM-KISAN",
+      "full_name": "Pradhan Mantri Kisan Samman Nidhi",
+      "category": "central",
+      "tagline": "PM-KISAN",
+      "keywords": [
+        "farmers",
+        "income support",
+        "agricultural inputs",
+        "kisan",
+        "agriculture",
+        "pradhan",
+        "mantri",
+        "kisan",
+        "samman",
+        "nidhi"
+      ],
+      "benefits": "Farmer welfare scheme by Ministry of Agriculture and Farmers Welfare to provide income support to all landholding farmers' families in the country to supplement their financial needs for procuring var",
+      "benefits_list": [
+        "Farmer welfare scheme by Ministry of Agriculture and Farmers Welfare to provide ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Farmer welfare scheme by Ministry of Agriculture and Farmers Welfare to provide income support to all landholding farmers' families in the country to supplement their financial needs for procuring various inputs related to agriculture and allied activities as well as domestic needs.\n",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pm-kisan",
+      "color": "#F44336",
+      "gradient": [
+        "#F44336",
+        "#EF5350"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Agriculture and Farmers Welfare",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "PMKVY - SP",
+      "full_name": "Pradhan Mantri Kaushal Vikas Yojana - Special Projects",
+      "category": "central",
+      "tagline": "PMKVY - SP",
+      "keywords": [
+        "marginalized groups",
+        "vulnerable groups",
+        "kaushal",
+        "vikas",
+        "skill",
+        "scheduled caste",
+        "scheduled tribe",
+        "pvtg",
+        "women",
+        "transgender",
+        "economically backward section",
+        "person with disabilities",
+        "lwe",
+        "pradhan",
+        "mantri",
+        "kaushal",
+        "vikas",
+        "yojana"
+      ],
+      "benefits": "A skill development scheme by Ministry of Skill Development and Entrepreneurship for Marginalized or vulnerable groups which may not meet all the parameters as laid down in the Guidelines of ShortTerm",
+      "benefits_list": [
+        "A skill development scheme by Ministry of Skill Development and Entrepreneurship",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "A skill development scheme by Ministry of Skill Development and Entrepreneurship for Marginalized or vulnerable groups which may not meet all the parameters as laid down in the Guidelines of ShortTerm Training (STT) of PMKVY 3.0",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmkvy-sp",
+      "color": "#FF9800",
+      "gradient": [
+        "#FF9800",
+        "#FFB74D"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Skill Development And Entrepreneurship",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "PMMY",
+      "full_name": "Pradhan Mantri Mudra Yojana",
+      "category": "central",
+      "tagline": "PMMY",
+      "keywords": [
+        "loan",
+        "business",
+        "mudra",
+        "pradhan",
+        "mantri",
+        "mudra",
+        "yojana"
+      ],
+      "benefits": "Pradhan Mantri Mudra Yojana (PMMY) is  a flagship scheme of Government of India. It facilitates micro credit/Loan upto Rs. 20 lakhs to income generating micro enterprises engaged in the non farm secto",
+      "benefits_list": [
+        "Pradhan Mantri Mudra Yojana (PMMY) is  a flagship scheme of Government of India.",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Pradhan Mantri Mudra Yojana (PMMY) is  a flagship scheme of Government of India. It facilitates micro credit/Loan upto Rs. 20 lakhs to income generating micro enterprises engaged in the non farm sector in manufacturing, processing, trading or service sector including activities allied to agriculture",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmmy",
+      "color": "#00BCD4",
+      "gradient": [
+        "#00BCD4",
+        "#4DD0E1"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Finance",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "AB-PMJAY",
+      "full_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
+      "category": "central",
+      "tagline": "AB-PMJAY",
+      "keywords": [
+        "health",
+        "insurance",
+        "ayushman",
+        "bharat",
+        "-",
+        "pradhan",
+        "mantri"
+      ],
+      "benefits": "AB PM-JAY is a health insurance scheme for low-income families in rural and urban areas. The scheme aims to provide affordable healthcare facilities to the Poor. It is the largest health assurance sch",
+      "benefits_list": [
+        "AB PM-JAY is a health insurance scheme for low-income families in rural and urba",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "AB PM-JAY is a health insurance scheme for low-income families in rural and urban areas. The scheme aims to provide affordable healthcare facilities to the Poor. It is the largest health assurance scheme in the world which aims at providing a health cover of ₹5,00,000/- per family per year.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+      "color": "#FF6B35",
+      "gradient": [
+        "#FF6B35",
+        "#F7931E"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Health & Family Welfare",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "PMSBY",
+      "full_name": "Pradhan Mantri Suraksha Bima Yojana",
+      "category": "central",
+      "tagline": "PMSBY",
+      "keywords": [
+        "bank account holders",
+        "insurance",
+        "accident insurance",
+        "death insurance",
+        "pradhan",
+        "mantri",
+        "suraksha",
+        "bima",
+        "yojana"
+      ],
+      "benefits": "An Accident Insurance Scheme offering accidental death and disability cover for death or disability on account of an accident.",
+      "benefits_list": [
+        "An Accident Insurance Scheme offering accidental death and disability cover for ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "An Accident Insurance Scheme offering accidental death and disability cover for death or disability on account of an accident.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmsby",
+      "color": "#2E8B57",
+      "gradient": [
+        "#2E8B57",
+        "#3CB371"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Finance",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "PMEGP",
+      "full_name": "Prime Minister's Employment Generation Programme",
+      "category": "central",
+      "tagline": "PMEGP",
+      "keywords": [
+        "financial assistance",
+        "loan",
+        "entrepreneur",
+        "projects",
+        "micro enterprises",
+        "prime",
+        "minister's",
+        "employment",
+        "generation",
+        "programme"
+      ],
+      "benefits": "Launched in August 2008, Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME). PMEGP a",
+      "benefits_list": [
+        "Launched in August 2008, Prime Minister's Employment Generation Programme (PMEGP",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Launched in August 2008, Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME). PMEGP aims to generate employment opportunities through the establishment of micro-enterprises in ",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmegp",
+      "color": "#4A90E2",
+      "gradient": [
+        "#4A90E2",
+        "#5DADE2"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Micro, Small and Medium Enterprises",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "PMAGY",
+      "full_name": "Pradhan Mantri Adarsh Gram Yojana",
+      "category": "central",
+      "tagline": "PMAGY",
+      "keywords": [
+        "rural development",
+        "social justice",
+        "sc-majority villages",
+        "village profiling",
+        "gap-filling fund",
+        "pradhan",
+        "mantri",
+        "adarsh",
+        "gram",
+        "yojana"
+      ],
+      "benefits": "With a view to enabling an area-based development approach, a new scheme Pradhan Mantri Adarsh Gram Yojana (PMAGY) was launched during 2009-10. The Scheme aims at the integrated development of Schedul",
+      "benefits_list": [
+        "With a view to enabling an area-based development approach, a new scheme Pradhan",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "With a view to enabling an area-based development approach, a new scheme Pradhan Mantri Adarsh Gram Yojana (PMAGY) was launched during 2009-10. The Scheme aims at the integrated development of Scheduled Castes majority villages.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmagy",
+      "color": "#E91E63",
+      "gradient": [
+        "#E91E63",
+        "#F06292"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Social Justice and Empowerment",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "PM-DAKSH",
+      "full_name": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH)",
+      "category": "central",
+      "tagline": "PM-DAKSH",
+      "keywords": [
+        "skill",
+        "training",
+        "employment",
+        "stipend",
+        "scheduled caste",
+        "other backward class",
+        "economically weaker section",
+        "pradhan",
+        "mantri",
+        "dakshta",
+        "aur",
+        "kushalta"
+      ],
+      "benefits": "The scheme \"PM-DAKSH\", launched by the Ministry of Social Justice & Empowerment (MoSJ&E), aims to empower socially, educationally, and economically marginalized groups like SCs, OBCs, EWS, DNTs, Safai",
+      "benefits_list": [
+        "The scheme \"PM-DAKSH\", launched by the Ministry of Social Justice & Empowerment ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme \"PM-DAKSH\", launched by the Ministry of Social Justice & Empowerment (MoSJ&E), aims to empower socially, educationally, and economically marginalized groups like SCs, OBCs, EWS, DNTs, Safai Mitras, and Waste Pickers by enhancing their skills through high-quality training.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pm-daksh",
+      "color": "#9C27B0",
+      "gradient": [
+        "#9C27B0",
+        "#BA68C8"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Social Justice and Empowerment",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "PMMSYMSOFRU",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Medium Scale Ornamental Fish Rearing Unit (Fresh Water) - Haryana",
+      "category": "state",
+      "tagline": "PMMSYMSOFRU",
+      "keywords": [
+        "fish production",
+        "fish",
+        "fish farmer",
+        "subsidy",
+        "ornamental aquaculture",
+        "fish rearing unit",
+        "fresh water",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "Under this scheme, financial assistance in the form of a subsidy is provided to eligible beneficiaries for setting up infrastructure such as sheds, breeding units, and rearing and culture tanks for or",
+      "benefits_list": [
+        "Under this scheme, financial assistance in the form of a subsidy is provided to ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Under this scheme, financial assistance in the form of a subsidy is provided to eligible beneficiaries for setting up infrastructure such as sheds, breeding units, and rearing and culture tanks for ornamental fish. ",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/msofru",
+      "color": "#F44336",
+      "gradient": [
+        "#F44336",
+        "#EF5350"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "PMIS",
+      "full_name": "Prime Minister’s Internship Scheme",
+      "category": "central",
+      "tagline": "PMIS",
+      "keywords": [
+        "internship",
+        "youth",
+        "employment opportunities",
+        "training",
+        "monthly assistance",
+        "skill development",
+        "prime",
+        "minister’s",
+        "internship",
+        "scheme"
+      ],
+      "benefits": "The scheme aims to provide internship opportunities to one crore youth in top 500 companies in five years. Through this Scheme, youth will gain exposure for 12 months to real-life business environment",
+      "benefits_list": [
+        "The scheme aims to provide internship opportunities to one crore youth in top 50",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme aims to provide internship opportunities to one crore youth in top 500 companies in five years. Through this Scheme, youth will gain exposure for 12 months to real-life business environment, across varied professions and employment opportunities.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmis",
+      "color": "#FF9800",
+      "gradient": [
+        "#FF9800",
+        "#FFB74D"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Corporate Affairs",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "PMMSYTWIBIFV",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Three Wheeler with Ice Box Including E-rickshaws for Fish Vending - Haryana",
+      "category": "state",
+      "tagline": "PMMSYTWIBIFV",
+      "keywords": [
+        "subsidy",
+        "fish",
+        "fishries",
+        "three wheeler",
+        "ice box",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "The scheme aims to promote hygienic and efficient fish transportation and retailing through mobile outlets. Under this scheme, financial assistance is provided to eligible beneficiaries for purchasing",
+      "benefits_list": [
+        "The scheme aims to promote hygienic and efficient fish transportation and retail",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme aims to promote hygienic and efficient fish transportation and retailing through mobile outlets. Under this scheme, financial assistance is provided to eligible beneficiaries for purchasing e-rickshaws equipped with ice boxes for selling fish directly.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/twibierfv",
+      "color": "#00BCD4",
+      "gradient": [
+        "#00BCD4",
+        "#4DD0E1"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "PM-USP SSSJKL",
+      "full_name": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana - Special Scholarship Scheme for Jammu & Kashmir and Ladakh",
+      "category": "central",
+      "tagline": "PM-USP SSSJKL",
+      "keywords": [
+        "education",
+        "financial assistance",
+        "scholarship",
+        "pradhan",
+        "mantri",
+        "uchchatar",
+        "shiksha",
+        "protsahan"
+      ],
+      "benefits": "This initiative provides academic fees and maintenance allowances to support students from Jammu & Kashmir and Ladakh pursuing higher education outside the Union Territories",
+      "benefits_list": [
+        "This initiative provides academic fees and maintenance allowances to support stu",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "This initiative provides academic fees and maintenance allowances to support students from Jammu & Kashmir and Ladakh pursuing higher education outside the Union Territories",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pm-usp-sssjkl",
+      "color": "#FF6B35",
+      "gradient": [
+        "#FF6B35",
+        "#F7931E"
+      ],
+      "icon": "📚",
+      "ministry": "Ministry of Education",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "PM-USPY:CSISS",
+      "full_name": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme",
+      "category": "central",
+      "tagline": "PM-USPY:CSISS",
+      "keywords": [
+        "interest subsidy",
+        "student",
+        "economically weaker sections",
+        "education loan",
+        "iba",
+        "professional programmes",
+        "technical programmes",
+        "pradhan",
+        "mantri",
+        "uchchatar",
+        "shiksha",
+        "protsahan"
+      ],
+      "benefits": "The scheme provides full interest subsidy during the moratorium period on loan availed under Model Education Loan Scheme of Indian Banks’ Association (IBA) to students belonging to economically weaker",
+      "benefits_list": [
+        "The scheme provides full interest subsidy during the moratorium period on loan a",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme provides full interest subsidy during the moratorium period on loan availed under Model Education Loan Scheme of Indian Banks’ Association (IBA) to students belonging to economically weaker sections whose annual parental income is up to ₹4.5 Lakhs from all sources.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pm-uspycsiss",
+      "color": "#2E8B57",
+      "gradient": [
+        "#2E8B57",
+        "#3CB371"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Education",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "PMUY",
+      "full_name": "Pradhan Mantri Ujjwala Yojana",
+      "category": "central",
+      "tagline": "PMUY",
+      "keywords": [
+        "ujjwala",
+        "women",
+        "bpl",
+        "gas cylinder",
+        "lpg cylinder",
+        "pradhan",
+        "mantri",
+        "ujjwala",
+        "yojana"
+      ],
+      "benefits": "A scheme by Ministry of Petroleum and Natural Gas for Providing free LPG connections to women belonging to the Below Poverty Line (BPL) households.\n",
+      "benefits_list": [
+        "A scheme by Ministry of Petroleum and Natural Gas for Providing free LPG connect",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "A scheme by Ministry of Petroleum and Natural Gas for Providing free LPG connections to women belonging to the Below Poverty Line (BPL) households.\n",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmuy",
+      "color": "#4A90E2",
+      "gradient": [
+        "#4A90E2",
+        "#5DADE2"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Petroleum and Natural Gas",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "PM POSHAN",
+      "full_name": "PM POSHAN - Prime Minister's Overarching Scheme For Holistic Nourishment",
+      "category": "central",
+      "tagline": "PM POSHAN",
+      "keywords": [
+        "school",
+        "children",
+        "health",
+        "govt scheme",
+        "nutrition india",
+        "pm",
+        "poshan",
+        "-",
+        "prime",
+        "minister's"
+      ],
+      "benefits": "PM POSHAN is a centrally sponsored scheme by the Department of School Education & Literacy, Ministry of Education. Under this scheme, one hot cooked meal will be provided to the children studying in G",
+      "benefits_list": [
+        "PM POSHAN is a centrally sponsored scheme by the Department of School Education ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "PM POSHAN is a centrally sponsored scheme by the Department of School Education & Literacy, Ministry of Education. Under this scheme, one hot cooked meal will be provided to the children studying in Government and Government – aided schools. The Scheme is implemented by the Ministry of Education.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pm-poshan",
+      "color": "#E91E63",
+      "gradient": [
+        "#E91E63",
+        "#F06292"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Education",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "PMKSY:PDMC",
+      "full_name": "Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop",
+      "category": "central",
+      "tagline": "PMKSY:PDMC",
+      "keywords": [
+        "agriculture",
+        "crop",
+        "farmer",
+        "irrigation",
+        "water harvesting",
+        "water management",
+        "pradhan",
+        "mantri",
+        "krishi",
+        "sinchayee",
+        "yojana:"
+      ],
+      "benefits": "The scheme “Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop” was launched by the Dept. of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Govt. of India on 1st Jul",
+      "benefits_list": [
+        "The scheme “Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop” was laun",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme “Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop” was launched by the Dept. of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Govt. of India on 1st July 2015. The scheme mainly focuses on water use efficiency at farm level through Micro Irrigation.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmksypdmc",
+      "color": "#9C27B0",
+      "gradient": [
+        "#9C27B0",
+        "#BA68C8"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Agriculture and Farmers Welfare",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "PMKSY:PDMC",
+      "full_name": "Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop",
+      "category": "central",
+      "tagline": "PMKSY:PDMC",
+      "keywords": [
+        "agriculture",
+        "crop",
+        "farmer",
+        "irrigation",
+        "water harvesting",
+        "water management",
+        "pradhan",
+        "mantri",
+        "krishi",
+        "sinchayee",
+        "yojana:"
+      ],
+      "benefits": "The scheme “Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop” was launched by the Dept. of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Govt. of India on 1st Jul",
+      "benefits_list": [
+        "The scheme “Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop” was laun",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme “Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop” was launched by the Dept. of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Govt. of India on 1st July 2015. The scheme mainly focuses on water use efficiency at farm level through Micro Irrigation.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmksypdmc",
+      "color": "#F44336",
+      "gradient": [
+        "#F44336",
+        "#EF5350"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Agriculture and Farmers Welfare",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "PM-MKSSY-1A",
+      "full_name": "Pradhan Mantri Matsya Kisan Samridhi Sah-yojana (PM-MKSSY): COMPONENT 1A: Formalization of Fisheries Sector and Facilitating Access of Fisheries Microenterprises to Government of India Programs for Working Capital Financing",
+      "category": "central",
+      "tagline": "PM-MKSSY-1A",
+      "keywords": [
+        "fisheries",
+        "enterprise",
+        "aquaculture",
+        "value chain",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "kisan",
+        "samridhi"
+      ],
+      "benefits": "The scheme aims to formalise fisheries microenterprises and facilitate their access to institutional working capital finance through small grants and credit intermediaries. It benefits fisheries secto",
+      "benefits_list": [
+        "The scheme aims to formalise fisheries microenterprises and facilitate their acc",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme aims to formalise fisheries microenterprises and facilitate their access to institutional working capital finance through small grants and credit intermediaries. It benefits fisheries sector stakeholders registered on NFDP with verifiable credit needs and valid bank accounts.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pm-mkssy-1a",
+      "color": "#FF9800",
+      "gradient": [
+        "#FF9800",
+        "#FFB74D"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Fisheries,Animal Husbandry and Dairying",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "PMMSYRVHR",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Refrigerated Vehicles – Haryana",
+      "category": "state",
+      "tagline": "PMMSYRVHR",
+      "keywords": [
+        "financial assistance",
+        "refrigerated vehicle",
+        "fishermen",
+        "fish",
+        "fish transport",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "The scheme aims to enhance cold chain infrastructure & ensure hygienic and efficient fish transportation. Under this scheme, financial assistance is provided to fishers for purchasing refrigerated veh",
+      "benefits_list": [
+        "The scheme aims to enhance cold chain infrastructure & ensure hygienic and effic",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme aims to enhance cold chain infrastructure & ensure hygienic and efficient fish transportation. Under this scheme, financial assistance is provided to fishers for purchasing refrigerated vehicles to maintain the freshness & quality of fish during post-harvest handling & transportation.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/sfrv",
+      "color": "#00BCD4",
+      "gradient": [
+        "#00BCD4",
+        "#4DD0E1"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "PMVS",
+      "full_name": "Pradhan Mantri Vidyalaxmi (PM-Vidyalaxmi) Scheme",
+      "category": "central",
+      "tagline": "PMVS",
+      "keywords": [
+        "education",
+        "student",
+        "college",
+        "merit",
+        "loan",
+        "pradhan",
+        "mantri",
+        "vidyalaxmi",
+        "(pm-vidyalaxmi)",
+        "scheme"
+      ],
+      "benefits": "The \"Pradhan Mantri Vidyalaxmi (Pm-vidyalaxmi) Scheme\" aims to provide financial support for higher education through education loans. Under this scheme, financial assistance of up to ₹10,00,000/- is ",
+      "benefits_list": [
+        "The \"Pradhan Mantri Vidyalaxmi (Pm-vidyalaxmi) Scheme\" aims to provide financial",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The \"Pradhan Mantri Vidyalaxmi (Pm-vidyalaxmi) Scheme\" aims to provide financial support for higher education through education loans. Under this scheme, financial assistance of up to ₹10,00,000/- is provided to meritorious students seeking admission to domestic institutions.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmvs",
+      "color": "#FF6B35",
+      "gradient": [
+        "#FF6B35",
+        "#F7931E"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Education",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "PMMKSSY-1B",
+      "full_name": "Pradhan Mantri Matsya Kisan Samridhi Sah-yojana (PM-MKSSY): COMPONENT 1B: One-Time Incentive for the Adoption of Aquaculture Insurance",
+      "category": "central",
+      "tagline": "PMMKSSY-1B",
+      "keywords": [
+        "incentive",
+        "aquaculture",
+        "insurance",
+        "fisheries",
+        "credit",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "kisan",
+        "samridhi"
+      ],
+      "benefits": "The Component 1B of PM-MKSSY provides a one-time incentive to eligible applicants who have availed institutional credit for fisheries-related activities. The objective is to encourage formal credit ad",
+      "benefits_list": [
+        "The Component 1B of PM-MKSSY provides a one-time incentive to eligible applicant",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The Component 1B of PM-MKSSY provides a one-time incentive to eligible applicants who have availed institutional credit for fisheries-related activities. The objective is to encourage formal credit adoption and support the repayment capacity of fisheries microenterprises.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmmkssy-1b",
+      "color": "#2E8B57",
+      "gradient": [
+        "#2E8B57",
+        "#3CB371"
+      ],
+      "icon": "🛡️",
+      "ministry": "Ministry of Fisheries,Animal Husbandry and Dairying",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "PMMSY-EBMRASUHR",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Establishment of Backyard mini RAS Units - Haryana",
+      "category": "state",
+      "tagline": "PMMSY-EBMRASUHR",
+      "keywords": [
+        "fisheries",
+        "subsidy",
+        "backyards",
+        "water source",
+        "fish farmer",
+        "fish",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "Under this scheme, financial assistance in the form of subsidies is provided to eligible beneficiaries for establishing these units. Various surface and groundwater sources such as canals, rivers, spr",
+      "benefits_list": [
+        "Under this scheme, financial assistance in the form of subsidies is provided to ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Under this scheme, financial assistance in the form of subsidies is provided to eligible beneficiaries for establishing these units. Various surface and groundwater sources such as canals, rivers, springs, open wells, and tube wells can be utilized for operating RAS units.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/ebmrasuhr",
+      "color": "#4A90E2",
+      "gradient": [
+        "#4A90E2",
+        "#5DADE2"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "PMSSWS/UTPP",
+      "full_name": "Prime Minister’s Scholarship Scheme for the Wards of States/UTs Police Personnel",
+      "category": "central",
+      "tagline": "PMSSWS/UTPP",
+      "keywords": [
+        "wards",
+        "police personnel",
+        "scholarship",
+        "higher technical",
+        "professional education",
+        "prime",
+        "minister’s",
+        "scholarship",
+        "scheme",
+        "for"
+      ],
+      "benefits": "The scheme was introduced by the Ministry of Home Affairs, Government of India from the academic session 2019-20 to encourage higher technical & professional education for the dependent wards of State",
+      "benefits_list": [
+        "The scheme was introduced by the Ministry of Home Affairs, Government of India f",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme was introduced by the Ministry of Home Affairs, Government of India from the academic session 2019-20 to encourage higher technical & professional education for the dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmsswsutpp",
+      "color": "#E91E63",
+      "gradient": [
+        "#E91E63",
+        "#F06292"
+      ],
+      "icon": "📚",
+      "ministry": "Ministry Of Home Affairs",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "PMJJBY",
+      "full_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "category": "central",
+      "tagline": "PMJJBY",
+      "keywords": [
+        "lic",
+        "consent",
+        "jansuraksha",
+        "claim form",
+        "pradhan",
+        "mantri",
+        "jeevan",
+        "jyoti",
+        "bima"
+      ],
+      "benefits": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is an insurance scheme offering life insurance cover for death due to any reason. It is a one-year cover, renewable from year to year. The scheme is of",
+      "benefits_list": [
+        "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is an insurance scheme offering",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is an insurance scheme offering life insurance cover for death due to any reason. It is a one-year cover, renewable from year to year. The scheme is offered by banks/post offices and administered through life insurance companies.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmjjby",
+      "color": "#9C27B0",
+      "gradient": [
+        "#9C27B0",
+        "#BA68C8"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Finance",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "OTSDFPC",
+      "full_name": "Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister's Development Package",
+      "category": "central",
+      "tagline": "OTSDFPC",
+      "keywords": [
+        "rehabilitation",
+        "displaced",
+        "business",
+        "farming",
+        "jammu",
+        "kashmir",
+        "family",
+        "central",
+        "assistance",
+        "for",
+        "one",
+        "time"
+      ],
+      "benefits": "A relief and rehabilitation scheme by the Ministry of Home Affairs provides central assistance to the displaced families from PoK And Chhamb and settled in the state of Jammu & Kashmir. The amount of ",
+      "benefits_list": [
+        "A relief and rehabilitation scheme by the Ministry of Home Affairs provides cent",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "A relief and rehabilitation scheme by the Ministry of Home Affairs provides central assistance to the displaced families from PoK And Chhamb and settled in the state of Jammu & Kashmir. The amount of Central Assistance of Rs. 5,49,692/- per family will be distributed through Direct Benefit Transfer.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/otsdfpc",
+      "color": "#F44336",
+      "gradient": [
+        "#F44336",
+        "#EF5350"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Home Affairs",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "PMKVY - RPL",
+      "full_name": "Pradhan Mantri Kaushal Vikas Yojana - Recognition Of Prior Learning",
+      "category": "central",
+      "tagline": "PMKVY - RPL",
+      "keywords": [
+        "kaushal",
+        "vikas",
+        "skill",
+        "industry training",
+        "pradhan",
+        "mantri",
+        "kaushal",
+        "vikas",
+        "yojana"
+      ],
+      "benefits": "A skill development scheme by Ministry of Skill Development and Entrepreneurship that enables Indian youth with prior learning experience or skills to obtain industry-relevant skill certification.",
+      "benefits_list": [
+        "A skill development scheme by Ministry of Skill Development and Entrepreneurship",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "A skill development scheme by Ministry of Skill Development and Entrepreneurship that enables Indian youth with prior learning experience or skills to obtain industry-relevant skill certification.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmkvy-rpl",
+      "color": "#FF9800",
+      "gradient": [
+        "#FF9800",
+        "#FFB74D"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Skill Development And Entrepreneurship",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "PMGSY",
+      "full_name": "Pradhan Mantri Gram Sadak Yojana",
+      "category": "central",
+      "tagline": "PMGSY",
+      "keywords": [
+        "road",
+        "rural",
+        "pradhan",
+        "mantri",
+        "gram",
+        "sadak",
+        "yojana"
+      ],
+      "benefits": "With the objective of providing rural connectivity, the Government of India launched the Pradhan Mantri Gram Sadak Yojana (referred to as PMGSY-I hereinafter) on 25th December 2000 to provide all-weat",
+      "benefits_list": [
+        "With the objective of providing rural connectivity, the Government of India laun",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "With the objective of providing rural connectivity, the Government of India launched the Pradhan Mantri Gram Sadak Yojana (referred to as PMGSY-I hereinafter) on 25th December 2000 to provide all-weather access to eligible unconnected habitations.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmgsy",
+      "color": "#00BCD4",
+      "gradient": [
+        "#00BCD4",
+        "#4DD0E1"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Rural Development",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "PMJDY",
+      "full_name": "Pradhan Mantri Jan Dhan Yojana",
+      "category": "central",
+      "tagline": "PMJDY",
+      "keywords": [
+        "jan dhan",
+        "bank",
+        "chota khata",
+        "insurance",
+        "pradhan",
+        "mantri",
+        "jan",
+        "dhan",
+        "yojana"
+      ],
+      "benefits": "A National Mission for Financial Inclusion (NMFI), namely, Pradhan Mantri Jan Dhan Yojana (PMJDY) was launched by the Prime Minister across the country on 28th August, 2014. It envisages to provide  u",
+      "benefits_list": [
+        "A National Mission for Financial Inclusion (NMFI), namely, Pradhan Mantri Jan Dh",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "A National Mission for Financial Inclusion (NMFI), namely, Pradhan Mantri Jan Dhan Yojana (PMJDY) was launched by the Prime Minister across the country on 28th August, 2014. It envisages to provide  universal banking services for every unbanked adult in the country.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmjdy",
+      "color": "#FF6B35",
+      "gradient": [
+        "#FF6B35",
+        "#F7931E"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Finance",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "PMSSW/WCPFP",
+      "full_name": "Prime Minister's Scholarship Scheme for the Wards/Widows of Central Police Force Personnel",
+      "category": "central",
+      "tagline": "PMSSW/WCPFP",
+      "keywords": [
+        "scholarship",
+        "wards",
+        "widow",
+        "central police force",
+        "ex-servicemen",
+        "cpf",
+        "prime",
+        "minister's",
+        "scholarship",
+        "scheme",
+        "for"
+      ],
+      "benefits": "The scheme “Prime Minister’s Scholarship Scheme for the Wards/Widows of Central Police Force Personnel” was introduced by the Ministry of Home Affairs, Govt. of India in the Academic year 2006-07 to e",
+      "benefits_list": [
+        "The scheme “Prime Minister’s Scholarship Scheme for the Wards/Widows of Central ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme “Prime Minister’s Scholarship Scheme for the Wards/Widows of Central Police Force Personnel” was introduced by the Ministry of Home Affairs, Govt. of India in the Academic year 2006-07 to encourage higher technical and professional education for the wards of widows and ex-CPFs personnel.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmsswwcpfp",
+      "color": "#2E8B57",
+      "gradient": [
+        "#2E8B57",
+        "#3CB371"
+      ],
+      "icon": "📚",
+      "ministry": "Ministry Of Home Affairs",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "PMECRG",
+      "full_name": "Prime Minister Early Career Research Grant",
+      "category": "central",
+      "tagline": "PMECRG",
+      "keywords": [
+        "research grant",
+        "researcher",
+        "anrf",
+        "research",
+        "phd",
+        "science",
+        "engineering",
+        "prime",
+        "minister",
+        "early",
+        "career",
+        "research"
+      ],
+      "benefits": "This programme is initiated by the Anusandhan National Research Foundation (ANRF) to assist researchers to initiate their research career in a new institution with a flexible budget and progressive in",
+      "benefits_list": [
+        "This programme is initiated by the Anusandhan National Research Foundation (ANRF",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "This programme is initiated by the Anusandhan National Research Foundation (ANRF) to assist researchers to initiate their research career in a new institution with a flexible budget and progressive initiatives for ease of doing research.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmecrg",
+      "color": "#4A90E2",
+      "gradient": [
+        "#4A90E2",
+        "#5DADE2"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Science And Technology",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "PMMSYMCIBHR",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Motor Cycle with Ice Box - Haryana",
+      "category": "state",
+      "tagline": "PMMSYMCIBHR",
+      "keywords": [
+        "subsidy",
+        "fishermen",
+        "motorcycle",
+        "fish",
+        "ice box",
+        "fisheries",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "The scheme aims to strengthen fish transportation infrastructure and ensure the freshness and quality of fish during transit. Under this scheme, financial assistance is provided to fishers for purchas",
+      "benefits_list": [
+        "The scheme aims to strengthen fish transportation infrastructure and ensure the ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme aims to strengthen fish transportation infrastructure and ensure the freshness and quality of fish during transit. Under this scheme, financial assistance is provided to fishers for purchasing motorcycles equipped with ice boxes, ensuring efficient and hygienic fish transport.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/mcwibs",
+      "color": "#E91E63",
+      "gradient": [
+        "#E91E63",
+        "#F06292"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "PMMSYMFFMPC8TDS",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Medium Fish Feed Mill of Production Capacity of 8 Ton/Day",
+      "category": "state",
+      "tagline": "PMMSYMFFMPC8TDS",
+      "keywords": [
+        "subsidy",
+        "fish farmer",
+        "entrepreneurs",
+        "fish production",
+        "fish",
+        "fish feed",
+        "mill",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "The scheme aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a produ",
+      "benefits_list": [
+        "The scheme aims to promote fish feed self-sufficiency and affordability among fi",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a production capacity of 8 tons per day, benefiting entrepreneurs and fish farmers.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/mffmpc8tds",
+      "color": "#9C27B0",
+      "gradient": [
+        "#9C27B0",
+        "#BA68C8"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "PMMSYMFFMPC2TD",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Mini Fish Feed Mills of Production Capacity of 2 Ton /Day",
+      "category": "state",
+      "tagline": "PMMSYMFFMPC2TD",
+      "keywords": [
+        "fish",
+        "fish farmer",
+        "fish production",
+        "entrepreneur",
+        "mini fish feed mill",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "Under this scheme, financial assistance, in form of subsidy, is provided to individuals for setting up mini feed mills, ensuring the local availability of quality fish feed at affordable prices for fi",
+      "benefits_list": [
+        "Under this scheme, financial assistance, in form of subsidy, is provided to indi",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Under this scheme, financial assistance, in form of subsidy, is provided to individuals for setting up mini feed mills, ensuring the local availability of quality fish feed at affordable prices for fishers and fish farmers.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/mffmpc2td",
+      "color": "#F44336",
+      "gradient": [
+        "#F44336",
+        "#EF5350"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "PMRBP",
+      "full_name": "Pradhan Mantri Rashtriya Bal Puraskar",
+      "category": "central",
+      "tagline": "PMRBP",
+      "keywords": [
+        "bal puraskar",
+        "child development",
+        "achievement",
+        "child rights",
+        "pradhan",
+        "mantri",
+        "rashtriya",
+        "bal",
+        "puraskar"
+      ],
+      "benefits": "The Pradhan Mantri Rashtriya Bal Puraskar (PMRBP) is organized to celebrate the energy, determination, ability, zeal, and enthusiasm of our children.",
+      "benefits_list": [
+        "The Pradhan Mantri Rashtriya Bal Puraskar (PMRBP) is organized to celebrate the ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The Pradhan Mantri Rashtriya Bal Puraskar (PMRBP) is organized to celebrate the energy, determination, ability, zeal, and enthusiasm of our children.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmrbp",
+      "color": "#FF9800",
+      "gradient": [
+        "#FF9800",
+        "#FFB74D"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Women and Child Development",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "PMSSWCAPFAR",
+      "full_name": "Prime Minister’s Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles",
+      "category": "central",
+      "tagline": "PMSSWCAPFAR",
+      "keywords": [
+        "scholarship",
+        "student",
+        "assam rifles",
+        "capf",
+        "ward",
+        "widow",
+        "prime",
+        "minister’s",
+        "scholarship",
+        "scheme",
+        "for"
+      ],
+      "benefits": "The scheme was introduced by the Ministry of Home Affairs, Government of India from the academic year 2006-07 to encourage higher technical & professional education for the dependent wards & widows of",
+      "benefits_list": [
+        "The scheme was introduced by the Ministry of Home Affairs, Government of India f",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme was introduced by the Ministry of Home Affairs, Government of India from the academic year 2006-07 to encourage higher technical & professional education for the dependent wards & widows of Central Armed Police Forces & Assam Rifles (CAPFs & AR) Personnel.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmsswcapfar",
+      "color": "#00BCD4",
+      "gradient": [
+        "#00BCD4",
+        "#4DD0E1"
+      ],
+      "icon": "📚",
+      "ministry": "Ministry Of Home Affairs",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "PM-GKAY",
+      "full_name": "Pradhan Mantri Garib Kalyan Anna Yojana",
+      "category": "central",
+      "tagline": "PM-GKAY",
+      "keywords": [
+        "ration",
+        "anna",
+        "wheat",
+        "rice",
+        "food grains",
+        "pradhan",
+        "mantri",
+        "garib",
+        "kalyan",
+        "anna"
+      ],
+      "benefits": "The scheme provides free food grain through the Public Distribution System, to all the priority households (ration card holders and those identified by the Antyodaya Anna Yojana scheme) - Migrants and",
+      "benefits_list": [
+        "The scheme provides free food grain through the Public Distribution System, to a",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme provides free food grain through the Public Distribution System, to all the priority households (ration card holders and those identified by the Antyodaya Anna Yojana scheme) - Migrants and the Poor. ",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pm-gkay",
+      "color": "#FF6B35",
+      "gradient": [
+        "#FF6B35",
+        "#F7931E"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Finance",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "PMFBY",
+      "full_name": "Pradhan Mantri Fasal Bima Yojna (PMFBY)",
+      "category": "central",
+      "tagline": "PMFBY",
+      "keywords": [
+        "crop",
+        "farmer",
+        "insurance",
+        "agriculture",
+        "premium",
+        "pradhan",
+        "mantri",
+        "fasal",
+        "bima",
+        "yojna"
+      ],
+      "benefits": "Pradhan Mantri Fasal Bima Yojana was launched in  2016 with the aim to support farmers by providing an affordable comprehensive risk cover for crops.",
+      "benefits_list": [
+        "Pradhan Mantri Fasal Bima Yojana was launched in  2016 with the aim to support f",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Pradhan Mantri Fasal Bima Yojana was launched in  2016 with the aim to support farmers by providing an affordable comprehensive risk cover for crops.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmfby",
+      "color": "#2E8B57",
+      "gradient": [
+        "#2E8B57",
+        "#3CB371"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Agriculture and Farmers Welfare",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "PMFMPE",
+      "full_name": "Pradhan Mantri Formalisation Of Micro Food Processing Enterprises",
+      "category": "central",
+      "tagline": "PMFMPE",
+      "keywords": [
+        "loan",
+        "credit linked subsidy",
+        "entrepreneurship",
+        "pradhan",
+        "mantri",
+        "formalisation",
+        "of",
+        "micro"
+      ],
+      "benefits": "Launched on 29th June 2020, PMFMPE is a Centrally Sponsored Scheme by the MoFPI, designed to address the challenges faced by the micro enterprises and to tap the potential of groups and cooperatives i",
+      "benefits_list": [
+        "Launched on 29th June 2020, PMFMPE is a Centrally Sponsored Scheme by the MoFPI,",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Launched on 29th June 2020, PMFMPE is a Centrally Sponsored Scheme by the MoFPI, designed to address the challenges faced by the micro enterprises and to tap the potential of groups and cooperatives in supporting the upgradation and formalization of these enterprises.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmfmpe",
+      "color": "#4A90E2",
+      "gradient": [
+        "#4A90E2",
+        "#5DADE2"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Food Processing Industries",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "PMGDISHA",
+      "full_name": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan",
+      "category": "central",
+      "tagline": "PMGDISHA",
+      "keywords": [
+        "digital",
+        "education",
+        "skill",
+        "rural development",
+        "pradhan",
+        "mantri",
+        "gramin",
+        "digital",
+        "saksharta"
+      ],
+      "benefits": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a Digital Literacy Scheme by the Ministry of Electronics and Information Technology (MeitY), to make six crore persons in rural areas, ac",
+      "benefits_list": [
+        "Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a Digital Literac",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a Digital Literacy Scheme by the Ministry of Electronics and Information Technology (MeitY), to make six crore persons in rural areas, across States/UTs, are digitally literate, reaching around 40% of rural households.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmgdisha",
+      "color": "#E91E63",
+      "gradient": [
+        "#E91E63",
+        "#F06292"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Electronics and Information Technology",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "PMMSY",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana",
+      "category": "central",
+      "tagline": "PMMSY",
+      "keywords": [
+        "fisheries",
+        "agriculture",
+        "farming",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana"
+      ],
+      "benefits": "Introduced by the Department of Fisheries, Pradhan Mantri Matsya Sampada Yojana (PMMSY) is a scheme to bring about ecologically healthy, economically viable, and socially inclusive development of the ",
+      "benefits_list": [
+        "Introduced by the Department of Fisheries, Pradhan Mantri Matsya Sampada Yojana ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Introduced by the Department of Fisheries, Pradhan Mantri Matsya Sampada Yojana (PMMSY) is a scheme to bring about ecologically healthy, economically viable, and socially inclusive development of the fisheries sector of India.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmmsy",
+      "color": "#9C27B0",
+      "gradient": [
+        "#9C27B0",
+        "#BA68C8"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry of Fisheries,Animal Husbandry and Dairying",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "PMUY2",
+      "full_name": "Pradhan Mantri Ujjwala Yojana 2.0",
+      "category": "central",
+      "tagline": "PMUY2",
+      "keywords": [
+        "lpg",
+        "cooking fuel",
+        "household",
+        "women",
+        "pradhan",
+        "mantri",
+        "ujjwala",
+        "yojana",
+        "2.0"
+      ],
+      "benefits": "Ministry of Petroleum and Natural Gas (MOPNG), introduced the ‘\"Pradhan Mantri Ujjawala Yojana 2.0\" in India. The Pradhan Mantri Ujjawala Yojana (PMUY) is a scheme launched by the Government of India ",
+      "benefits_list": [
+        "Ministry of Petroleum and Natural Gas (MOPNG), introduced the ‘\"Pradhan Mantri U",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Ministry of Petroleum and Natural Gas (MOPNG), introduced the ‘\"Pradhan Mantri Ujjawala Yojana 2.0\" in India. The Pradhan Mantri Ujjawala Yojana (PMUY) is a scheme launched by the Government of India in 2016 to provide free LPG (liquefied petroleum gas) connections to women from below-poverty-line.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmuy2",
+      "color": "#F44336",
+      "gradient": [
+        "#F44336",
+        "#EF5350"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Petroleum and Natural Gas",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "PMECRG",
+      "full_name": "Prime Minister Early Career Research Grant",
+      "category": "central",
+      "tagline": "PMECRG",
+      "keywords": [
+        "research grant",
+        "researcher",
+        "anrf",
+        "research",
+        "phd",
+        "science",
+        "engineering",
+        "prime",
+        "minister",
+        "early",
+        "career",
+        "research"
+      ],
+      "benefits": "This programme is initiated by the Anusandhan National Research Foundation (ANRF) to assist researchers to initiate their research career in a new institution with a flexible budget and progressive in",
+      "benefits_list": [
+        "This programme is initiated by the Anusandhan National Research Foundation (ANRF",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "This programme is initiated by the Anusandhan National Research Foundation (ANRF) to assist researchers to initiate their research career in a new institution with a flexible budget and progressive initiatives for ease of doing research.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/pmecrg",
+      "color": "#FF9800",
+      "gradient": [
+        "#FF9800",
+        "#FFB74D"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Science And Technology",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "PMMSYMCIBHR",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Motor Cycle with Ice Box - Haryana",
+      "category": "state",
+      "tagline": "PMMSYMCIBHR",
+      "keywords": [
+        "subsidy",
+        "fishermen",
+        "motorcycle",
+        "fish",
+        "ice box",
+        "fisheries",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "The scheme aims to strengthen fish transportation infrastructure and ensure the freshness and quality of fish during transit. Under this scheme, financial assistance is provided to fishers for purchas",
+      "benefits_list": [
+        "The scheme aims to strengthen fish transportation infrastructure and ensure the ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme aims to strengthen fish transportation infrastructure and ensure the freshness and quality of fish during transit. Under this scheme, financial assistance is provided to fishers for purchasing motorcycles equipped with ice boxes, ensuring efficient and hygienic fish transport.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/mcwibs",
+      "color": "#00BCD4",
+      "gradient": [
+        "#00BCD4",
+        "#4DD0E1"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "PMMSYMFFMPC8TDS",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Medium Fish Feed Mill of Production Capacity of 8 Ton/Day",
+      "category": "state",
+      "tagline": "PMMSYMFFMPC8TDS",
+      "keywords": [
+        "subsidy",
+        "fish farmer",
+        "entrepreneurs",
+        "fish production",
+        "fish",
+        "fish feed",
+        "mill",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "The scheme aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a produ",
+      "benefits_list": [
+        "The scheme aims to promote fish feed self-sufficiency and affordability among fi",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a production capacity of 8 tons per day, benefiting entrepreneurs and fish farmers.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/mffmpc8tds",
+      "color": "#FF6B35",
+      "gradient": [
+        "#FF6B35",
+        "#F7931E"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "PMMSYMFFMPC2TD",
+      "full_name": "Pradhan Mantri Matsya Sampada Yojana: Mini Fish Feed Mills of Production Capacity of 2 Ton /Day",
+      "category": "state",
+      "tagline": "PMMSYMFFMPC2TD",
+      "keywords": [
+        "fish",
+        "fish farmer",
+        "fish production",
+        "entrepreneur",
+        "mini fish feed mill",
+        "pradhan",
+        "mantri",
+        "matsya",
+        "sampada",
+        "yojana:"
+      ],
+      "benefits": "Under this scheme, financial assistance, in form of subsidy, is provided to individuals for setting up mini feed mills, ensuring the local availability of quality fish feed at affordable prices for fi",
+      "benefits_list": [
+        "Under this scheme, financial assistance, in form of subsidy, is provided to indi",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Under this scheme, financial assistance, in form of subsidy, is provided to individuals for setting up mini feed mills, ensuring the local availability of quality fish feed at affordable prices for fishers and fish farmers.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/mffmpc2td",
+      "color": "#2E8B57",
+      "gradient": [
+        "#2E8B57",
+        "#3CB371"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "KSCSTEP-DFP",
+      "full_name": "KSCSTE Post-Doctoral Fellowship Programme",
+      "category": "state",
+      "tagline": "KSCSTEP-DFP",
+      "keywords": [
+        "post-doctoral",
+        "fellowship",
+        "research",
+        "fellow",
+        "scientist",
+        "kscste",
+        "post-doctoral",
+        "fellowship",
+        "programme"
+      ],
+      "benefits": "KSCSTE Post-Doctoral Fellowships will be provided to those who possess Ph.D. in science and engineering with high quality research publications in SCI journals. The program aims to encourage Ph.D. hol",
+      "benefits_list": [
+        "KSCSTE Post-Doctoral Fellowships will be provided to those who possess Ph.D. in ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "KSCSTE Post-Doctoral Fellowships will be provided to those who possess Ph.D. in science and engineering with high quality research publications in SCI journals. The program aims to encourage Ph.D. holders to pursue further research and to develop career as scientist. ",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/kscstep-dfp",
+      "color": "#4A90E2",
+      "gradient": [
+        "#4A90E2",
+        "#5DADE2"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "DDKFS",
+      "full_name": "D. D. Kosambi Research Fellowship Scheme",
+      "category": "state",
+      "tagline": "DDKFS",
+      "keywords": [
+        "fellowship",
+        "education",
+        "research",
+        "arts",
+        "social studies",
+        "phd",
+        "d.",
+        "d.",
+        "kosambi",
+        "research",
+        "fellowship"
+      ],
+      "benefits": "The scheme \"Goa State Best Library and Best Librarian Award\" has been designed by the Directorate of Art and Culture, Government of Goa to encourage Goan Scholars to undertake research in the field of",
+      "benefits_list": [
+        "The scheme \"Goa State Best Library and Best Librarian Award\" has been designed b",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme \"Goa State Best Library and Best Librarian Award\" has been designed by the Directorate of Art and Culture, Government of Goa to encourage Goan Scholars to undertake research in the field of Goan history, culture, arts, social studies etc. Three fellowships shall be awarded.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/ddkfs",
+      "color": "#E91E63",
+      "gradient": [
+        "#E91E63",
+        "#F06292"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "YSPNCP",
+      "full_name": "Yuva Srujan Puraskar (Navsarjan Chetana Puraskar)",
+      "category": "state",
+      "tagline": "YSPNCP",
+      "keywords": [
+        "artist",
+        "culture",
+        "award",
+        "achievement",
+        "financial assistance",
+        "yuva",
+        "srujan",
+        "puraskar",
+        "(navsarjan",
+        "chetana"
+      ],
+      "benefits": "The scheme \"Yuva Srujan Puraskar (Navsarjan Chetana Puraskar)\" is designed to honour the young Goan individuals who have excelled in the field of Art and culture in Goa. The scheme intends to give rec",
+      "benefits_list": [
+        "The scheme \"Yuva Srujan Puraskar (Navsarjan Chetana Puraskar)\" is designed to ho",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The scheme \"Yuva Srujan Puraskar (Navsarjan Chetana Puraskar)\" is designed to honour the young Goan individuals who have excelled in the field of Art and culture in Goa. The scheme intends to give recognition to young artists par excellence for their outstanding achievements.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/yspncp",
+      "color": "#9C27B0",
+      "gradient": [
+        "#9C27B0",
+        "#BA68C8"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "MMSBY",
+      "full_name": "Mukhmantri Sehat Bima Yojana",
+      "category": "state",
+      "tagline": "MMSBY",
+      "keywords": [
+        "insurance",
+        "health",
+        "welfare",
+        "medical",
+        "mukhmantri",
+        "sehat",
+        "bima",
+        "yojana"
+      ],
+      "benefits": "\"AYUSHMAN BHARAT PM-JAY MUKH MANTRI SEHAT BIMA YOJNA” is a flagship State Health Insurance Program of the Government of Punjab. ",
+      "benefits_list": [
+        "\"AYUSHMAN BHARAT PM-JAY MUKH MANTRI SEHAT BIMA YOJNA” is a flagship State Health",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "\"AYUSHMAN BHARAT PM-JAY MUKH MANTRI SEHAT BIMA YOJNA” is a flagship State Health Insurance Program of the Government of Punjab. ",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/mmsby",
+      "color": "#F44336",
+      "gradient": [
+        "#F44336",
+        "#EF5350"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "AKSMSY",
+      "full_name": "Asangathit Karmakaar Silai Machine Sahayata Yojana",
+      "category": "state",
+      "tagline": "AKSMSY",
+      "keywords": [
+        "sewing machine",
+        "empowerment",
+        "business",
+        "asangathit",
+        "karmakaar",
+        "silai",
+        "machine",
+        "sahayata"
+      ],
+      "benefits": "Asangathit Karmakaar Silai Machine Sahayata Yojana started by the Government of Chhattisgarh in 2012. \n",
+      "benefits_list": [
+        "Asangathit Karmakaar Silai Machine Sahayata Yojana started by the Government of ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Asangathit Karmakaar Silai Machine Sahayata Yojana started by the Government of Chhattisgarh in 2012. \n",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/aksmsy",
+      "color": "#FF9800",
+      "gradient": [
+        "#FF9800",
+        "#FFB74D"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "BTLPDFP",
+      "full_name": "Back-To-Lab Post-Doctoral Fellowship Programme",
+      "category": "state",
+      "tagline": "BTLPDFP",
+      "keywords": [
+        "woman",
+        "scientist",
+        "post-doctoral",
+        "fellowship",
+        "unemployed",
+        "back-to-lab",
+        "post-doctoral",
+        "fellowship",
+        "programme"
+      ],
+      "benefits": "The “Back-to-Lab” programme of Women Scientists Division offers Research and Post-Doctoral Fellowship to women who have break in their career, to facilitate their re-entry in science research. ",
+      "benefits_list": [
+        "The “Back-to-Lab” programme of Women Scientists Division offers Research and Pos",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The “Back-to-Lab” programme of Women Scientists Division offers Research and Post-Doctoral Fellowship to women who have break in their career, to facilitate their re-entry in science research. ",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/btlpdfp",
+      "color": "#00BCD4",
+      "gradient": [
+        "#00BCD4",
+        "#4DD0E1"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "NFSMCSS",
+      "full_name": "National Food Security Mission NFSM",
+      "category": "central",
+      "tagline": "NFSMCSS",
+      "keywords": [
+        "demonstration",
+        "seed distribution",
+        "seed hub",
+        "seed production",
+        "pulses",
+        "rice",
+        "wheat",
+        "nutri cereals",
+        "millets",
+        "national",
+        "food",
+        "security",
+        "mission",
+        "nfsm"
+      ],
+      "benefits": "National Food Security Mission was launched in 2007-08 to increase the production of rice, wheat and pulses. Later, coarse cereals, nutri cereals, commercial crops (sugarcane, jute, and cotton) were a",
+      "benefits_list": [
+        "National Food Security Mission was launched in 2007-08 to increase the productio",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "National Food Security Mission was launched in 2007-08 to increase the production of rice, wheat and pulses. Later, coarse cereals, nutri cereals, commercial crops (sugarcane, jute, and cotton) were also added to the mission.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/nfsmcss",
+      "color": "#FF6B35",
+      "gradient": [
+        "#FF6B35",
+        "#F7931E"
+      ],
+      "icon": "📋",
+      "ministry": "Ministry Of Agriculture and Farmers Welfare",
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "SAMS",
+      "full_name": "Supply of Agriculture Machineries Scheme",
+      "category": "state",
+      "tagline": "SAMS",
+      "keywords": [
+        "farmer",
+        "agriculture machineries",
+        "subsidy",
+        "supply",
+        "of",
+        "agriculture",
+        "machineries",
+        "scheme"
+      ],
+      "benefits": "The objective of the scheme is to distribute and sale of agricultural machinery such as Power Tillers, etc. to farmers at subsidized rates.",
+      "benefits_list": [
+        "The objective of the scheme is to distribute and sale of agricultural machinery ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The objective of the scheme is to distribute and sale of agricultural machinery such as Power Tillers, etc. to farmers at subsidized rates.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/sams",
+      "color": "#2E8B57",
+      "gradient": [
+        "#2E8B57",
+        "#3CB371"
+      ],
+      "icon": "🌾",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "OMS",
+      "full_name": "Organic Manure Scheme",
+      "category": "state",
+      "tagline": "OMS",
+      "keywords": [
+        "organic manure",
+        "farmer",
+        "agriculture",
+        "training",
+        "organic",
+        "manure",
+        "scheme"
+      ],
+      "benefits": "The objective of the scheme is to provide hands on training at the village level on production of organic compost inputs such as compost for plant health management for sustainable agriculture.",
+      "benefits_list": [
+        "The objective of the scheme is to provide hands on training at the village level",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The objective of the scheme is to provide hands on training at the village level on production of organic compost inputs such as compost for plant health management for sustainable agriculture.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/oms",
+      "color": "#4A90E2",
+      "gradient": [
+        "#4A90E2",
+        "#5DADE2"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "DSPY",
+      "full_name": "Divyang Shiksha Protsahan Yojana",
+      "category": "state",
+      "tagline": "DSPY",
+      "keywords": [
+        "education",
+        "disabilities",
+        "children",
+        "financial",
+        "divyang",
+        "shiksha",
+        "protsahan",
+        "yojana"
+      ],
+      "benefits": "Under this scheme, the Madhya Pradesh government provides financial support to Disabled children of the state.\n",
+      "benefits_list": [
+        "Under this scheme, the Madhya Pradesh government provides financial support to D",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "Under this scheme, the Madhya Pradesh government provides financial support to Disabled children of the state.\n",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/dspy",
+      "color": "#E91E63",
+      "gradient": [
+        "#E91E63",
+        "#F06292"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "VSABMR",
+      "full_name": "6 Varsh Se Adhik Aayu Ke Bahuviklang Aur Mansik Roop Se Aviksit Nisaktjan Ke Liye Sahayata Anudan Yojana",
+      "category": "state",
+      "tagline": "VSABMR",
+      "keywords": [
+        "empowerment",
+        "social welfare",
+        "disabled",
+        "mentally underdeveloped",
+        "financial",
+        "6",
+        "varsh",
+        "se",
+        "adhik",
+        "aayu"
+      ],
+      "benefits": "The objective of the scheme is M.P. To assist multiple handicapped and mentally underdeveloped persons above the age of six years who are unable to earn a living.",
+      "benefits_list": [
+        "The objective of the scheme is M.P. To assist multiple handicapped and mentally ",
+        "Easy application",
+        "Official scheme",
+        "Pan-India coverage"
+      ],
+      "eligibility": "Check official website for details",
+      "description": "The objective of the scheme is M.P. To assist multiple handicapped and mentally underdeveloped persons above the age of six years who are unable to earn a living.",
+      "documents": [
+        "Aadhaar Card",
+        "PAN Card",
+        "Address Proof",
+        "Bank Account"
+      ],
+      "link": "https://www.myscheme.gov.in/schemes/cvsaakbamrsanklsay",
+      "color": "#9C27B0",
+      "gradient": [
+        "#9C27B0",
+        "#BA68C8"
+      ],
+      "icon": "📋",
+      "ministry": null,
+      "state": [
+        "All India"
+      ]
+    }
+  ]
+}

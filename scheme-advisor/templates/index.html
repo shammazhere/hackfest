@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SchemeGenie AI - Smart Government Scheme Advisor</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(180deg, #000000 0%, #001a1f 25%, #003d4d 55%, #00788a 85%, #2dd4bf 100%);
+            background-attachment: fixed;
+            min-height: 100vh;
+            padding: 20px;
+            color: white;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .logo {
+            font-size: 4em;
+            font-weight: 800;
+            background: linear-gradient(90deg, #5eead4, #2dd4bf, #14b8a6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+            text-shadow: 0 0 40px rgba(45, 212, 191, 0.3);
+        }
+
+        .subtitle {
+            font-size: 1.3em;
+            opacity: 0.9;
+            font-weight: 300;
+            color: #a7f3d0;
+        }
+
+        .ai-badge {
+            display: inline-block;
+            background: rgba(45, 212, 191, 0.1);
+            backdrop-filter: blur(10px);
+            padding: 6px 20px;
+            border-radius: 20px;
+            margin-top: 15px;
+            font-size: 14px;
+            border: 1px solid rgba(45, 212, 191, 0.3);
+            color: #5eead4;
+        }
+
+        .header-actions {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .refresh-btn {
+            background: rgba(45, 212, 191, 0.1);
+            border: 1px solid rgba(45, 212, 191, 0.4);
+            color: #5eead4;
+            padding: 10px 22px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 13px;
+            font-family: 'Poppins', sans-serif;
+            transition: all 0.3s;
+        }
+
+        .refresh-btn:hover {
+            background: rgba(45, 212, 191, 0.2);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(45, 212, 191, 0.3);
+        }
+
+        .refresh-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .scheme-count {
+            font-size: 13px;
+            opacity: 0.9;
+            background: rgba(45, 212, 191, 0.1);
+            padding: 6px 15px;
+            border-radius: 20px;
+            border: 1px solid rgba(45, 212, 191, 0.3);
+            color: #5eead4;
+        }
+
+        .search-box {
+            background: rgba(0, 30, 40, 0.5);
+            backdrop-filter: blur(20px);
+            padding: 40px;
+            border-radius: 25px;
+            border: 1px solid rgba(45, 212, 191, 0.2);
+            margin-bottom: 40px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5), 0 0 40px rgba(45, 212, 191, 0.1);
+        }
+
+        .search-box h2 {
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            font-weight: 600;
+            color: #5eead4;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.3);
+            border: 2px solid rgba(45, 212, 191, 0.2);
+            border-radius: 15px;
+            color: white;
+            font-size: 16px;
+            font-family: 'Poppins', sans-serif;
+            resize: vertical;
+            min-height: 120px;
+            transition: all 0.3s;
+        }
+
+        textarea::placeholder {
+            color: rgba(167, 243, 208, 0.4);
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: #2dd4bf;
+            background: rgba(0, 0, 0, 0.4);
+            box-shadow: 0 0 20px rgba(45, 212, 191, 0.2);
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #2dd4bf, #14b8a6, #0d9488);
+            color: #ffffff;
+            border: none;
+            padding: 18px 50px;
+            font-size: 18px;
+            font-weight: 700;
+            border-radius: 15px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: all 0.3s;
+            font-family: 'Poppins', sans-serif;
+            box-shadow: 0 10px 30px rgba(45, 212, 191, 0.4);
+        }
+
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 15px 40px rgba(45, 212, 191, 0.6);
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .examples {
+            margin-top: 20px;
+            color: rgba(167, 243, 208, 0.7);
+            font-size: 14px;
+        }
+
+        .example-chip {
+            display: inline-block;
+            background: rgba(45, 212, 191, 0.08);
+            padding: 8px 16px;
+            border-radius: 20px;
+            margin: 5px 5px 0 0;
+            cursor: pointer;
+            font-size: 13px;
+            transition: all 0.3s;
+            border: 1px solid rgba(45, 212, 191, 0.2);
+            color: #a7f3d0;
+        }
+
+        .example-chip:hover {
+            background: linear-gradient(135deg, #2dd4bf, #14b8a6);
+            color: #ffffff;
+            transform: translateY(-2px);
+            border-color: transparent;
+        }
+
+        .loader {
+            text-align: center;
+            padding: 40px;
+            display: none;
+        }
+
+        .spinner {
+            width: 60px;
+            height: 60px;
+            border: 4px solid rgba(45, 212, 191, 0.2);
+            border-top: 4px solid #2dd4bf;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .analysis-box {
+            background: linear-gradient(135deg, rgba(45, 212, 191, 0.1), rgba(20, 184, 166, 0.1));
+            border: 1px solid rgba(45, 212, 191, 0.4);
+            padding: 20px 30px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            display: none;
+            animation: slideUp 0.5s ease;
+        }
+
+        .analysis-box h3 {
+            color: #5eead4;
+            margin-bottom: 10px;
+        }
+
+        .results {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 30px;
+        }
+
+        .scheme-card {
+            background: rgba(0, 30, 40, 0.5);
+            backdrop-filter: blur(20px);
+            border-radius: 25px;
+            overflow: hidden;
+            border: 1px solid rgba(45, 212, 191, 0.2);
+            transition: all 0.3s;
+            animation: slideUp 0.5s ease;
+        }
+
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .scheme-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5), 0 0 30px rgba(45, 212, 191, 0.2);
+            border-color: rgba(45, 212, 191, 0.4);
+        }
+
+        .scheme-header {
+            padding: 30px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .scheme-header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -20%;
+            width: 200px;
+            height: 200px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 50%;
+        }
+
+        .scheme-icon {
+            font-size: 3em;
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .scheme-title {
+            font-size: 1.6em;
+            font-weight: 700;
+            margin-bottom: 5px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .scheme-tagline {
+            opacity: 0.9;
+            font-size: 0.95em;
+            position: relative;
+            z-index: 1;
+        }
+
+        .ministry-tag {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 11px;
+            margin-top: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .scheme-body {
+            padding: 25px;
+        }
+
+        .ai-reason {
+            background: rgba(45, 212, 191, 0.1);
+            border-left: 3px solid #2dd4bf;
+            padding: 12px 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.9);
+            line-height: 1.5;
+        }
+
+        .ai-reason strong {
+            color: #5eead4;
+        }
+
+        .info-row {
+            display: flex;
+            align-items: start;
+            margin-bottom: 15px;
+            gap: 12px;
+        }
+
+        .info-row .label {
+            font-weight: 600;
+            color: #5eead4;
+            min-width: 90px;
+            font-size: 14px;
+        }
+
+        .info-row .value {
+            flex: 1;
+            font-size: 14px;
+            line-height: 1.5;
+            opacity: 0.9;
+        }
+
+        .benefits-pills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 8px;
+        }
+
+        .pill {
+            background: rgba(45, 212, 191, 0.15);
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 12px;
+            border: 1px solid rgba(45, 212, 191, 0.2);
+            color: #a7f3d0;
+        }
+
+        .poster-section {
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.3);
+        }
+
+        .poster-section img {
+            width: 100%;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+
+        .poster-section img:hover {
+            transform: scale(1.02);
+        }
+
+        .actions {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 8px;
+            padding: 20px;
+        }
+
+        .action-btn {
+            padding: 12px 8px;
+            border: none;
+            border-radius: 10px;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            color: white;
+            font-size: 13px;
+            transition: all 0.3s;
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .btn-video {
+            background: linear-gradient(135deg, #0d9488, #115e59);
+        }
+
+        .btn-download {
+            background: linear-gradient(135deg, #334155, #1e293b);
+        }
+
+        .btn-apply {
+            background: linear-gradient(135deg, #2dd4bf, #0d9488);
+            color: #ffffff;
+        }
+
+        .action-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(45, 212, 191, 0.3);
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.95);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-container {
+            width: 90%;
+            max-width: 900px;
+            position: relative;
+        }
+
+        .modal-container video {
+            width: 100%;
+            border-radius: 15px;
+        }
+
+        .modal-container img {
+            width: 100%;
+            max-height: 90vh;
+            object-fit: contain;
+            border-radius: 15px;
+        }
+
+        .close-modal {
+            position: absolute;
+            top: -50px;
+            right: 0;
+            background: #2dd4bf;
+            color: #001a1f;
+            border: none;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            font-size: 20px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .modal-loading {
+            color: white;
+            text-align: center;
+            font-size: 18px;
+            padding: 60px 20px;
+        }
+
+        .progress-text {
+            margin-top: 10px;
+            font-size: 14px;
+            opacity: 0.7;
+        }
+
+        /* Toast Notification */
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: linear-gradient(135deg, #2dd4bf, #0d9488);
+            color: #ffffff;
+            padding: 15px 25px;
+            border-radius: 10px;
+            font-weight: 600;
+            box-shadow: 0 10px 30px rgba(45, 212, 191, 0.4);
+            transform: translateX(400px);
+            transition: transform 0.3s;
+            z-index: 999;
+        }
+
+        .toast.show {
+            transform: translateX(0);
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            opacity: 0.6;
+        }
+
+        .empty-state h3 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            color: #5eead4;
+        }
+
+        @media (max-width: 600px) {
+            .logo { font-size: 2.5em; }
+            .search-box { padding: 25px; }
+            .results { grid-template-columns: 1fr; }
+            .actions { grid-template-columns: 1fr; }
+            .header-actions { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">🧞 SchemeGenie AI</div>
+            <div class="subtitle">Your Intelligent Government Scheme Advisor</div>
+            <div class="ai-badge">⚡ Powered by Groq AI + MyScheme.gov.in</div>
+            
+            <div class="header-actions">
+                <button class="refresh-btn" onclick="refreshSchemes()" id="refreshBtn">
+                    🔄 Refresh Schemes from MyScheme.gov.in
+                </button>
+                <span class="scheme-count" id="schemeCount">Loading...</span>
+            </div>
+        </header>
+
+        <div class="search-box">
+            <h2>💬 Tell me your problem</h2>
+            <textarea id="problemInput" placeholder="E.g., I'm a farmer struggling with finances and want government support..."></textarea>
+            
+            <div class="examples">
+                <strong>💡 Quick examples:</strong><br>
+                <span class="example-chip" onclick="setExample(this)">I want to start a small business but don't have capital</span>
+                <span class="example-chip" onclick="setExample(this)">I'm a farmer looking for financial assistance</span>
+                <span class="example-chip" onclick="setExample(this)">Need to save for my daughter's education</span>
+                <span class="example-chip" onclick="setExample(this)">Can't afford expensive medical treatment</span>
+                <span class="example-chip" onclick="setExample(this)">Want to buy my first home</span>
+                <span class="example-chip" onclick="setExample(this)">Planning for retirement</span>
+                <span class="example-chip" onclick="setExample(this)">I need scholarship for my studies</span>
+                <span class="example-chip" onclick="setExample(this)">Looking for skill development training</span>
+            </div>
+
+            <button class="btn" onclick="analyzeProblem()">✨ Find My Schemes</button>
+        </div>
+
+        <div class="loader" id="loader">
+            <div class="spinner"></div>
+            <p>🤖 AI is analyzing your problem and finding perfect schemes...</p>
+        </div>
+
+        <div class="analysis-box" id="analysisBox">
+            <h3>🎯 AI Analysis</h3>
+            <p id="analysisText"></p>
+        </div>
+
+        <div class="results" id="results"></div>
+    </div>
+
+    <!-- Video/Poster Modal -->
+    <div class="modal" id="modal">
+        <div class="modal-container">
+            <button class="close-modal" onclick="closeModal()">✕</button>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast"></div>
+
+    <script>
+        // ========== EXAMPLE & UI HELPERS ==========
+        function setExample(el) {
+            document.getElementById('problemInput').value = el.textContent;
+            document.getElementById('problemInput').focus();
+        }
+
+        function showToast(message, duration = 3000) {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), duration);
+        }
+
+        // ========== LOAD SCHEME COUNT ON PAGE LOAD ==========
+        async function loadSchemeCount() {
+            try {
+                const response = await fetch('/schemes-info');
+                const data = await response.json();
+                document.getElementById('schemeCount').textContent = `📊 ${data.total} schemes available`;
+            } catch (e) {
+                document.getElementById('schemeCount').textContent = '⚠️ Could not load count';
+            }
+        }
+
+        // ========== REFRESH SCHEMES ==========
+        async function refreshSchemes() {
+            const btn = document.getElementById('refreshBtn');
+            const originalText = btn.textContent;
+            
+            btn.textContent = '⏳ Fetching from MyScheme.gov.in...';
+            btn.disabled = true;
+            
+            try {
+                const response = await fetch('/refresh-schemes', {method: 'POST'});
+                const data = await response.json();
+                
+                if (data.success) {
+                    btn.textContent = `✅ Loaded ${data.count} schemes!`;
+                    document.getElementById('schemeCount').textContent = `📊 ${data.count} schemes available`;
+                    showToast(`🎉 Refreshed ${data.count} schemes successfully!`);
+                } else {
+                    btn.textContent = '❌ Failed';
+                    showToast('❌ Failed to refresh schemes');
+                }
+            } catch (e) {
+                btn.textContent = '❌ Error';
+                showToast('❌ Error: ' + e.message);
+            }
+            
+            setTimeout(() => {
+                btn.textContent = originalText;
+                btn.disabled = false;
+            }, 3000);
+        }
+
+        // ========== ANALYZE PROBLEM ==========
+        async function analyzeProblem() {
+            const problem = document.getElementById('problemInput').value.trim();
+            
+            if (!problem) {
+                showToast('⚠️ Please describe your problem first!');
+                return;
+            }
+
+            const loader = document.getElementById('loader');
+            const results = document.getElementById('results');
+            const analysisBox = document.getElementById('analysisBox');
+            const btn = document.querySelector('.btn');
+
+            loader.style.display = 'block';
+            results.innerHTML = '';
+            analysisBox.style.display = 'none';
+            btn.disabled = true;
+
+            try {
+                const response = await fetch('/analyze', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({problem})
+                });
+                const data = await response.json();
+
+                if (data.error) {
+                    showToast('❌ ' + data.error);
+                    return;
+                }
+
+                // Show AI analysis
+                if (data.analysis) {
+                    document.getElementById('analysisText').textContent = data.analysis;
+                    analysisBox.style.display = 'block';
+                }
+
+                if (data.schemes && data.schemes.length > 0) {
+                    displayResults(data.schemes);
+                    showToast(`✨ Found ${data.schemes.length} matching schemes!`);
+                } else {
+                    results.innerHTML = `
+                        <div class="empty-state">
+                            <h3>😔 No schemes found</h3>
+                            <p>Try rephrasing your problem or using different keywords.</p>
+                        </div>
+                    `;
+                }
+            } catch (e) {
+                showToast('❌ Error: ' + e.message);
+            } finally {
+                loader.style.display = 'none';
+                btn.disabled = false;
+                
+                // Scroll to results
+                if (results.children.length > 0) {
+                    results.scrollIntoView({behavior: 'smooth', block: 'start'});
+                }
+            }
+        }
+
+        // ========== DISPLAY RESULTS ==========
+        function displayResults(schemes) {
+            const results = document.getElementById('results');
+            results.innerHTML = '';
+
+            schemes.forEach((s, idx) => {
+                const card = document.createElement('div');
+                card.className = 'scheme-card';
+                card.style.animationDelay = (idx * 0.1) + 's';
+                
+                const gradient = `linear-gradient(135deg, ${s.gradient[0]}, ${s.gradient[1]})`;
+                const benefitsPills = (s.benefits_list || []).slice(0, 4).map(b => 
+                    `<span class="pill">${b}</span>`
+                ).join('');
+                
+                const ministryHtml = s.ministry ? 
+                    `<div class="ministry-tag">🏛️ ${s.ministry}</div>` : '';
+
+                card.innerHTML = `
+                    <div class="scheme-header" style="background: ${gradient}">
+                        <div class="scheme-icon">${s.icon}</div>
+                        <div class="scheme-title">${s.name}</div>
+                        <div class="scheme-tagline">${s.tagline}</div>
+                        ${ministryHtml}
+                    </div>
+                    <div class="scheme-body">
+                        ${s.ai_reasoning ? `
+                            <div class="ai-reason">
+                                <strong>🤖 Why this fits you:</strong> ${s.ai_reasoning}
+                            </div>
+                        ` : ''}
+                        <div class="info-row">
+                            <div class="label">💰 Get:</div>
+                            <div class="value"><strong>${s.benefits}</strong></div>
+                        </div>
+                        <div class="info-row">
+                            <div class="label">👥 For:</div>
+                            <div class="value">${s.eligibility}</div>
+                        </div>
+                        ${benefitsPills ? `
+                            <div class="info-row">
+                                <div class="label">✨ Perks:</div>
+                                <div class="value">
+                                    <div class="benefits-pills">${benefitsPills}</div>
+                                </div>
+                            </div>
+                        ` : ''}
+                    </div>
+                    <div class="poster-section">
+                        <img src="${s.poster_url}" alt="${s.name}" 
+                             onclick="viewPoster('${s.poster_url}')"
+                             title="Click to view full size">
+                    </div>
+                    <div class="actions">
+                        <button class="action-btn btn-video" onclick="generateVideo(${s.id}, '${s.name.replace(/'/g, "\\'")}')">
+                            🎬 Video
+                        </button>
+                        <a href="${s.poster_url}" download="${s.name}_poster.png" class="action-btn btn-download">
+                            ⬇️ Poster
+                        </a>
+                        <a href="${s.link}" target="_blank" class="action-btn btn-apply">
+                            📲 Apply
+                        </a>
+                    </div>
+                `;
+                results.appendChild(card);
+            });
+        }
+
+        // ========== VIEW POSTER (FULL SIZE) ==========
+        function viewPoster(url) {
+            const modal = document.getElementById('modal');
+            const content = document.getElementById('modalContent');
+            content.innerHTML = `<img src="${url}" alt="Poster">`;
+            modal.classList.add('active');
+        }
+
+        // ========== GENERATE VIDEO ==========
+        async function generateVideo(schemeId, schemeName) {
+            const modal = document.getElementById('modal');
+            const content = document.getElementById('modalContent');
+            
+            modal.classList.add('active');
+            content.innerHTML = `
+                <div class="modal-loading">
+                    <div class="spinner"></div>
+                    <p>🎬 Generating video for <strong>${schemeName}</strong>...</p>
+                    <p class="progress-text">⏳ This may take 30-90 seconds (AI narration + video rendering)</p>
+                </div>
+            `;
+
+            try {
+                const response = await fetch(`/generate-video/${schemeId}`, {method: 'POST'});
+                const data = await response.json();
+
+                if (data.video_url) {
+                    content.innerHTML = `
+                        <video controls autoplay src="${data.video_url}">
+                            Your browser does not support video playback.
+                        </video>
+                        <div style="margin-top: 15px; text-align: center;">
+                            <a href="${data.video_url}" download="${schemeName}_video.mp4" 
+                               style="background: linear-gradient(135deg, #2dd4bf, #0d9488); 
+                                      color: #ffffff; padding: 10px 25px; border-radius: 10px; 
+                                      text-decoration: none; font-weight: 600; display: inline-block;">
+                                ⬇️ Download Video
+                            </a>
+                        </div>
+                    `;
+                    showToast('🎬 Video generated successfully!');
+                } else {
+                    content.innerHTML = `
+                        <div class="modal-loading">
+                            <p>❌ ${data.error || 'Video generation failed'}</p>
+                            <p class="progress-text">Please try again or check if FFmpeg is installed.</p>
+                        </div>
+                    `;
+                }
+            } catch (e) {
+                content.innerHTML = `
+                    <div class="modal-loading">
+                        <p>❌ Error: ${e.message}</p>
+                    </div>
+                `;
+            }
+        }
+
+        // ========== CLOSE MODAL ==========
+        function closeModal() {
+            const modal = document.getElementById('modal');
+            modal.classList.remove('active');
+            document.getElementById('modalContent').innerHTML = '';
+        }
+
+        // ========== KEYBOARD SHORTCUTS ==========
+        document.addEventListener('keydown', (e) => {
+            // Ctrl+Enter to analyze
+            if (e.ctrlKey && e.key === 'Enter') {
+                analyzeProblem();
+            }
+            // Escape to close modal
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+
+        // Click outside modal to close
+        document.getElementById('modal').addEventListener('click', (e) => {
+            if (e.target.id === 'modal') {
+                closeModal();
+            }
+        });
+
+        // ========== INIT ==========
+        loadSchemeCount();
+    </script>
+</body>
+</html>
