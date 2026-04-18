@@ -23,7 +23,6 @@ os.makedirs(VIDEO_DIR, exist_ok=True)
 
 
 # ✅ Load schemes safely (NO crash at startup)
-@app.before_first_request
 def load_schemes():
     try:
         if not SCHEMES:
@@ -32,6 +31,9 @@ def load_schemes():
             print(f"✅ Loaded {len(SCHEMES)} schemes")
     except Exception as e:
         print(f"❌ Failed to load schemes: {e}")
+
+with app.app_context():
+    load_schemes()
 
 
 @app.route('/')
